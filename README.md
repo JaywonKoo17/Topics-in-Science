@@ -1,5 +1,5 @@
 # Topics-in-Science
-This is homework for Topics in Science course 20-2
+Homework for Topics in Science course 20-2
 
 
 # First Homework
