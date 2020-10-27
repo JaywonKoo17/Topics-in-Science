@@ -1,7 +1,7 @@
-# Topics-in-Science
-Homework for Topics in Science course 20-2
+# 과학의 쟁점
+2020년도 2학기 과학의 쟁점 과제 
 
 
-# First Homework
+# 1. First Homework
 
 마르코프 모델을 이용해 축구 경기 승패 예측하기 
